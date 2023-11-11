@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width="1447" alt="image" src="https://github.com/ersinerenler/ersinerenler/assets/113091631/37954ab9-76d9-4fdc-ae1d-e16eec96b986">
 
-<!--
-**ersinerenler/ersinerenler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 About Me<br><br>Hello! I'm Ersin Erenler, a passionate and experienced web application penetration tester. With a strong background in cybersecurity and ethical hacking, I specialize in identifying and mitigating security vulnerabilities within web applications.<br><br>## 💼 Professional Experience<br><br>### Web Application Penetration Tester | BGA Security<br><br>In my role as a web application penetration tester at BGA Security, I have successfully conducted numerous security assessments for a diverse range of clients. My responsibilities include:<br><br>- Performing comprehensive penetration tests on web applications to identify vulnerabilities.<br>- Providing detailed reports with findings, risk assessments, and recommended remediation steps.<br>- Collaborating with development teams to implement security best practices and address identified issues.<br><br>### Certifications<br><br>- eLearnSecurity Web Application Penetration Tester eXtreme (eWPTXv2)<br>- Certified in Cyber Security by ISC2 (CC)<br>- Certified AppSec Practitioner (CAP)<br><br>## 🛠️ Technical Skills<br><br>- **Penetration Testing:** Proficient in manual and automated testing methodologies.<br>- **Tools:** Familiar with a wide range of penetration testing tools, including Burp Suite, OWASP ZAP, Nmap, Metasploit, etc.<br>- **Programming:** Skilled in scripting and coding languages such as Python, JavaScript, and Bash.<br><br>## 🌐 Contributions to the Community<br><br>I actively contribute to the cybersecurity community through:<br><br>- Writing technical articles and blog posts on web application security.<br>- Speaking at industry conferences and events.<br>- Providing mentorship to aspiring security professionals.<br><br>## 📫 Contact<br><br>- LinkedIn: [Ersin Erenler](https://www.linkedin.com/in/ersin-erenler/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ersin-erenler) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ersinerenler.itu) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ersinerenler&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ersinerenler&theme=dark&hide_border=false)<br/>
