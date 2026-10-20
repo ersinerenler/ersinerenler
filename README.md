@@ -1,6 +1,12 @@
 ## Hi, I'm Ersin 👋
 
-Cyber Security Engineer based in Istanbul, focused on web application and mobile penetration testing.
+Cyber Security Engineer based in Istanbul.
+
+**What I work on**
+- Internal penetration testing (web, mobile, internal network) and coordination of external pentests
+- Vulnerability management & asset management
+- Breach and Attack Simulation (BAS)
+- Privileged Access Management (PAM), Secure Web Gateway (SWG) and system hardening
 
 **Certifications:** CEH · eWPTXv2 · CAP · CC · TSE Senior
 
